@@ -10,3 +10,18 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.jumbotron {
+    padding-bottom: 60px;
+    background-color: rgb(236, 236, 236);
+}
+
+.card {
+    margin-top: 15px;
+    margin-bottom: 15px;
+   
+}
+
+.text-light {
+    padding-left: 3px;
+}
